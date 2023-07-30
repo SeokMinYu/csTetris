@@ -1,0 +1,9 @@
+C:\Users\유석민\Desktop\Tetris_ysm\obj\Release\Tetris_ysm.Form1.resources
+C:\Users\유석민\Desktop\Tetris_ysm\obj\Release\Tetris_ysm.Properties.Resources.resources
+C:\Users\유석민\Desktop\Tetris_ysm\obj\Release\Tetris_ysm.csproj.GenerateResource.cache
+C:\Users\유석민\Desktop\Tetris_ysm\obj\Release\Tetris_ysm.csproj.CoreCompileInputs.cache
+C:\Users\유석민\Desktop\Tetris_ysm\bin\Release\Tetris_ysm_2주차.exe.config
+C:\Users\유석민\Desktop\Tetris_ysm\bin\Release\Tetris_ysm_2주차.exe
+C:\Users\유석민\Desktop\Tetris_ysm\bin\Release\Tetris_ysm_2주차.pdb
+C:\Users\유석민\Desktop\Tetris_ysm\obj\Release\Tetris_ysm_2주차.exe
+C:\Users\유석민\Desktop\Tetris_ysm\obj\Release\Tetris_ysm_2주차.pdb
